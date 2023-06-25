@@ -139,7 +139,7 @@ const Register = () => {
         <div className="h-[100vh] flex justify-center items-center bg-c1">
             <div className="flex items-center flex-col">
                 <div className="text-center">
-                    <div className="text-4xl font-bold">Create New Account</div>
+                    <div className="text-4xl font-bold">እናውራ</div>
                     <div className="mt-3 text-c3">
                         Connect and chat with anyone, anywhere
                     </div>
